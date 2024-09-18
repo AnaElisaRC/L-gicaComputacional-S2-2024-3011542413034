@@ -1,1 +1,4 @@
-# L-gicaComputacional-S2-2024-3011542413034
+Nome: Ana Elisa Rubinato Cavalheiro
+Email: anaelisa.rubinato@hotmail.com
+GitHub ID: AnaElisaRC
+R.A.: 3011542413034
